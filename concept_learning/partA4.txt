@@ -1,0 +1,13 @@
+Gender Male	Age Young	Student? No	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age Young	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age Young	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age Young	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender Male	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender ?	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender ?	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender ?	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
+Gender ?	Age ?	Student? ?	PreviouslyDeclined? ?	HairLength ?	Employed? ?	TypeOfColateral Car	FirstLoan ?	LifeInsurance ?
